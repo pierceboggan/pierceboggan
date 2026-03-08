@@ -16,11 +16,10 @@ I build the tools that help developers build with AI — from agent workflows in
 | Repo | Description |
 |------|-------------|
 | 🤖 [microsoft/agentrc](https://github.com/microsoft/agentrc) | Get your repo ready for AI — CLI & VS Code extension for generating Copilot instructions |
-| 🎨 [coloring-book](https://github.com/pierceboggan/coloring-book) | AI coloring book generator (TypeScript) |
-| 🖼️ [nano-banana-mcp](https://github.com/pierceboggan/nano-banana-mcp) | MCP server for generating images |
-| 🚴 [Dropped](https://github.com/pierceboggan/Dropped) | AI-powered cycling training app (Swift) |
-| 🧩 [spec-driven-agents](https://github.com/pierceboggan/spec-driven-agents) | Template for spec-driven development with agent mode in VS Code |
 | 🔤 [prompt-lsp](https://github.com/pierceboggan/prompt-lsp) | Language Server Protocol for analyzing & improving AI prompts |
+| 🎨 [coloring-book](https://github.com/pierceboggan/coloring-book) | AI coloring book generator (TypeScript) |
+| 🚴 [Dropped](https://github.com/pierceboggan/Dropped) | AI-powered cycling training app (Swift) |
+| 🖼️ [nano-banana-mcp](https://github.com/pierceboggan/nano-banana-mcp) | MCP server for generating images |
 
 ---
 
